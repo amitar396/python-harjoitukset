@@ -1,0 +1,6 @@
+brutto = 5000
+verot = 2000
+netto=brutto - verot
+verot=1000
+print(netto)
+netto=brutto - verot
