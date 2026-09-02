@@ -1,4 +1,0 @@
-Pelasta planeetta
-
-Amit Aryal
-
